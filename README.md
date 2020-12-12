@@ -1,2 +1,2 @@
 # hw-2
-hoework2
+homework2
